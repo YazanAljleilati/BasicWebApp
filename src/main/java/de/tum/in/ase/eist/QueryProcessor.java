@@ -25,14 +25,14 @@ public class QueryProcessor {
                 }
             }
         return String.valueOf(sum);
-        }  //else if (query.contains("largest")) {
+        }  else if (query.contains("largest")) {
 
-        //}
+        }
 
-        else { // TODO extend the programm here
+         // TODO extend the programm here
             // Add a new comment here, please don't remove
             // 13th try
             return "";
-        }
+
     }
 }
